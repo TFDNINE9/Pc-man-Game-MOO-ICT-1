@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pc man Game MOO ICT 1", "Pc man Game MOO ICT 1\Pc man Game MOO ICT 1.csproj", "{CCCA8377-C0AE-432E-AFC0-B6703E874D1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCCA8377-C0AE-432E-AFC0-B6703E874D1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCCA8377-C0AE-432E-AFC0-B6703E874D1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCCA8377-C0AE-432E-AFC0-B6703E874D1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCCA8377-C0AE-432E-AFC0-B6703E874D1F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C82CDF4-FE0C-4CF4-B2B3-D189F5C16455}
+	EndGlobalSection
+EndGlobal
